@@ -1,4 +1,10 @@
-{
-  "enabled": true,
-  "message": "ParallaxOp"
-}
+            {
+    "serverstatus": true,
+    "noticemode": true,
+    "dataclearmode": true,
+    "servermeassage":"Kill sing Closed by @ParallaxOwner",
+    "opentime":"     Kill sing Closed by @ParallaxOwner",
+    "libs":"https://github.com/ZayYadav/ParallaxCheats/raw/refs/heads/main/Bewafa.zip",
+    "notice_title":"",
+    "notice_body":""
+            }
